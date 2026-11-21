@@ -10,7 +10,9 @@ A ByteForge Studios app.
 
 Or grab it from the [Releases](https://github.com/azaan-ship-it/Orbit/releases) page. Windows may show a SmartScreen warning because the app isn't signed yet: click **More info → Run anyway**.
 
-<!-- WEB -->
+## Use it on the web
+
+**[Open Orbit in your browser](https://byteforge-orbit.web.app)**, no install needed.
 
 ## Features
 
